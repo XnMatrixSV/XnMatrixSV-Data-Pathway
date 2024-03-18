@@ -2,7 +2,7 @@
 
 
 
-Please use this template to draft and save your Notary Allocator application answers. Once you are ready, you must submit all answers into the airtable form.
+
 ~~~ Basic Info ~~~
 1. Notary Allocator Pathway Name * XnMatrix
 2. Organization * XnMatrix
